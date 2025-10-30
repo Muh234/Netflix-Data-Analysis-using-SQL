@@ -78,5 +78,5 @@ The dataset includes:
 
 ## Author
 **Muhammad Abdus-Salam**  
-Email Copywriter & Data Enthusiast  
+Data Scientist 
 [LinkedIn Profile]([https://www.linkedin.com/in/muhammad-abdus-salam/](https://www.linkedin.com/in/muhammad-abdus-salam-7b8511223/))
